@@ -1,0 +1,42 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.input {
+	width: 50%;
+	margin: auto;
+	padding: 10px;
+	border-bottom: 2px solid black;
+}
+
+.input_field2 {
+	font-size: 25px;
+	border-radius: 5px;
+	background-color: white;
+	border: none;
+}
+
+.submit_button {
+	border-radius: 5px;
+	background-color: #ADEBAD;
+	font-size: 23px;
+	border: none;
+}
+
+.submit_button:hover {
+	border-radius: 5px;
+	background-color: #4DDB4D;
+	font-size: 23px;
+	border: none;
+	color: white;
+}
+
+.heading1 {
+	color: red;
+}
+
+.heading2 {
+	color: blue;
+}
